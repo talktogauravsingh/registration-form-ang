@@ -1,0 +1,26 @@
+#formSection{
+    display: flex;
+    justify-content: center;
+}
+
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.btn-margin{
+    margin-left: 15px;
+}
+
+.btn-danger{
+    background-color: #ff7675;
+    color: #fff;
+}
+
+.btn-success{
+    background-color: #55efc4;
+    color: #fff;
+}
